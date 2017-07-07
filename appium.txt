@@ -1,0 +1,4 @@
+[caps]
+platformName = "ios"
+deviceName = "iPhone Simulator"
+app = "./ios/build/Build/Products/Debug-iphonesimulator/FormComponents.app"
